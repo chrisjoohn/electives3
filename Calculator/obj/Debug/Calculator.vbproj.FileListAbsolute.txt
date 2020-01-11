@@ -1,0 +1,22 @@
+C:\Users\JC\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\JC\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\JC\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\JC\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\JC\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\bin\Debug\Calculator.exe
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\bin\Debug\Calculator.xml
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.exe
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.xml
+C:\Users\CJMulingbayan\Documents\vb\Calculator - CJ\Calculator\obj\Debug\Calculator.pdb
